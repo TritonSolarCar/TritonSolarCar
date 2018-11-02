@@ -1,2 +1,1 @@
-Practice folder
-Anything added here won't be used 
+Practice folder-anything added here won't be used 
